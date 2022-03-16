@@ -1,2 +1,3 @@
 # Curso-da-Blue-Projetos
-Esse codigo faz parte do primeiro projeto empregável na Blue.
+Os codigos apresentados aqui fazem parte de todo processo de estudo e aprendizado.
+obitidos no Curso de Full Stack WEb Developer da Blue Edtech
