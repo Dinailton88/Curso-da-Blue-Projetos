@@ -5,7 +5,8 @@ Projeto do segundo modulo du curso de Dev FullStack na na Blue Edtech
 
 ## Stacks
 As ferramentas foram :
- <i class="devicon-"></i> colorido
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
           
 
 
