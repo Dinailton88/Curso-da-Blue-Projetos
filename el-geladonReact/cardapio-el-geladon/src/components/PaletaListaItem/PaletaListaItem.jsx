@@ -1,10 +1,7 @@
 import "./PaletaListaItem.css";
 
 
-function PaletaListaItem({paleta, quantidadeSelecionada, index,onRemove,onAdd}){
-
-
-	   
+function PaletaListaItem({paleta, quantidadeSelecionada, index,onRemove,onAdd}){	   
 
 const badgeCounter = (canRender, index) =>
 Boolean(canRender) && (<span className="PaletaListaItem__badge"> {quantidadeSelecionada} </span>);
